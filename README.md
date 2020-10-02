@@ -1,2 +1,2 @@
 # Email-Datasets
-Classified email datasets
+Multiclass classified or categorized email datasets
